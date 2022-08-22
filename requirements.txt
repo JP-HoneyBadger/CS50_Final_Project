@@ -1,0 +1,5 @@
+Required pip installed libraries or packages
+Pip install pyttsx3
+Pip install re
+Pip install sys
+Pip install pytest
